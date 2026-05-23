@@ -3,7 +3,7 @@
   <category name="General">
     <category_description></category_description>
     <preference name="testPref998" type="String" array="false" disabled="false" protectionScope="User" envEnabled="false">
-      <preference_description>test</preference_description>
+      <preference_description>Example to set preference values that contains characters which are similar to XML element tags.</preference_description>
       <context name="Teamcenter">
         <value>val1&lt;&gt;</value>
       </context>
